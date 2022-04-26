@@ -12,6 +12,17 @@ and
 *Yuzi He, Siyi Guo, Keith Burghardt and Kristina Lerman*  
 [Arxiv](https://arxiv.org/abs/2010.16409)
 
+## Dependence
+
+* numpy
+* pandas
+* matplotlib
+* os
+* pickle
+* glob
+* cvxpy
+* scipy
+* graphviz
 
 ## Content
 
