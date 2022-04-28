@@ -2,13 +2,13 @@
 
 This codebase contains code used in paper 
 
-*Learning Fairer Interventions*  
+**Learning Fairer Interventions**  
 *Yuzi He, Siyi Guo, Keith Burghardt and Kristina Lerman*  
 *Published in AIES 2022*  
 
 and 
 
-*Inherent Trade-offs in the Fair Allocation of Treatments*  
+**Inherent Trade-offs in the Fair Allocation of Treatments**  
 *Yuzi He, Siyi Guo, Keith Burghardt and Kristina Lerman*  
 [Arxiv](https://arxiv.org/abs/2010.16409)
 
