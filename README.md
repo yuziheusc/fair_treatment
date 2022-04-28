@@ -10,7 +10,7 @@ and
 
 **Inherent Trade-offs in the Fair Allocation of Treatments**  
 *Yuzi He, Siyi Guo, Keith Burghardt and Kristina Lerman*  
-[Arxiv](https://arxiv.org/abs/2010.16409)
+[Link](https://arxiv.org/abs/2010.16409)
 
 ## Dependence
 
